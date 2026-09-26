@@ -1,0 +1,6 @@
+{
+  "name": "YoungFire Ministry | Joshua House of Worship",
+  "description": "The official discipleship sanctuary and fellowship portal for YoungFire Ministry at Joshua House of Worship, featuring the 66-Book Imperial Scripture Atlas, Physical Bible Tracker, and 24/7 Gospel Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,2317 @@
+[
+  {
+    "id": "GEN",
+    "name": "Genesis",
+    "testament": "Old Testament",
+    "category": "Pentateuch",
+    "region": "Mesopotamia, Canaan & Nile Delta",
+    "coordinates": [
+      31.5297,
+      35.0938
+    ],
+    "zoom": 6,
+    "keyCharacters": [
+      "Adam & Eve",
+      "Noah",
+      "Abraham & Sarah",
+      "Isaac & Rebekah",
+      "Jacob & Rachel",
+      "Joseph"
+    ],
+    "summary": "The book of origins: creation, the fall, the global flood, and the covenant journey of the Patriarchs from Ur to Canaan and into Egypt.",
+    "milestones": [
+      {
+        "name": "Garden of Eden & Mesopotamia",
+        "coords": [
+          31,
+          47
+        ],
+        "narrative": "Creation of man and dawn of redemptive history in the fertile crescent."
+      },
+      {
+        "name": "Mount Ararat",
+        "coords": [
+          39.7042,
+          44.2978
+        ],
+        "narrative": "Resting place of Noah's Ark after the great deluge; rainbow covenant."
+      },
+      {
+        "name": "Ur of the Chaldees",
+        "coords": [
+          30.9622,
+          46.1031
+        ],
+        "narrative": "Birthplace of Abram; departure by faith into the unknown."
+      },
+      {
+        "name": "Shechem & Bethel",
+        "coords": [
+          32.2133,
+          35.2819
+        ],
+        "narrative": "First altar built in Canaan; Jacob's ladder vision of the angels of God."
+      },
+      {
+        "name": "Hebron (Cave of Machpelah)",
+        "coords": [
+          31.5297,
+          35.0938
+        ],
+        "narrative": "Patriarchal burial site purchased by Abraham for Sarah and descendants."
+      },
+      {
+        "name": "Land of Goshen (Egypt)",
+        "coords": [
+          30.7874,
+          31.8219
+        ],
+        "narrative": "Joseph's ascension as viceroy of Egypt and preservation of Israel during famine."
+      }
+    ]
+  },
+  {
+    "id": "EXO",
+    "name": "Exodus",
+    "testament": "Old Testament",
+    "category": "Pentateuch",
+    "region": "Nile Delta, Red Sea & Mount Sinai",
+    "coordinates": [
+      28.5397,
+      33.9753
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Moses",
+      "Aaron",
+      "Miriam",
+      "Jethro",
+      "Pharaoh"
+    ],
+    "summary": "Deliverance of Israel from Egyptian bondage, miraculous Red Sea crossing, giving of the Law at Mount Sinai, and erection of the Tabernacle.",
+    "milestones": [
+      {
+        "name": "Rameses / Goshen",
+        "coords": [
+          30.7874,
+          31.8219
+        ],
+        "narrative": "Ten plagues poured upon Egypt; first Passover lamb slain."
+      },
+      {
+        "name": "Red Sea Crossing (Gulf of Suez)",
+        "coords": [
+          29.9667,
+          32.55
+        ],
+        "narrative": "Waters parted by the east wind; Egyptian army vanquished."
+      },
+      {
+        "name": "Marah & Elim",
+        "coords": [
+          29.0833,
+          33.1667
+        ],
+        "narrative": "Bitter waters sweetened; 12 springs and 70 palm trees of oasis."
+      },
+      {
+        "name": "Rephidim",
+        "coords": [
+          28.65,
+          33.85
+        ],
+        "narrative": "Water from the struck rock of Horeb; Aaron and Hur uphold Moses' hands."
+      },
+      {
+        "name": "Mount Sinai (Jebel Musa)",
+        "coords": [
+          28.5397,
+          33.9753
+        ],
+        "narrative": "The Ten Commandments delivered in thunder, fire, and smoke; Tabernacle pattern revealed."
+      }
+    ]
+  },
+  {
+    "id": "LEV",
+    "name": "Leviticus",
+    "testament": "Old Testament",
+    "category": "Pentateuch",
+    "region": "Foot of Mount Sinai Sanctuary",
+    "coordinates": [
+      28.5397,
+      33.9753
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Moses",
+      "Aaron",
+      "Eleazar",
+      "Nadab & Abihu"
+    ],
+    "summary": "The holy protocol of sacrifice, priesthood consecration, purity, and the annual Day of Atonement given at the base of Mount Sinai.",
+    "milestones": [
+      {
+        "name": "The Tabernacle Courtyard (Sinai)",
+        "coords": [
+          28.5397,
+          33.9753
+        ],
+        "narrative": "Burnt, grain, peace, sin, and trespass offerings instituted for holy communion."
+      },
+      {
+        "name": "Holy of Holies (The Mercy Seat)",
+        "coords": [
+          28.541,
+          33.976
+        ],
+        "narrative": "The High Priest enters once a year with sacrificial blood on Yom Kippur."
+      }
+    ]
+  },
+  {
+    "id": "NUM",
+    "name": "Numbers",
+    "testament": "Old Testament",
+    "category": "Pentateuch",
+    "region": "Sinai, Kadesh Barnea & Moab",
+    "coordinates": [
+      30.65,
+      34.42
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Moses",
+      "Aaron",
+      "Joshua",
+      "Caleb",
+      "Balaam"
+    ],
+    "summary": "Census of the tribes, spy reconnaissance from Kadesh-Barnea, 40-year wilderness wanderings, and journey to the threshold of Canaan.",
+    "milestones": [
+      {
+        "name": "Wilderness of Paran",
+        "coords": [
+          29.5,
+          34
+        ],
+        "narrative": "Departure from Sinai guided by the pillar of cloud by day and fire by night."
+      },
+      {
+        "name": "Kadesh Barnea",
+        "coords": [
+          30.65,
+          34.42
+        ],
+        "narrative": "Twelve spies sent into Canaan; ten bring an evil report; 40-year wandering decreed."
+      },
+      {
+        "name": "Mount Hor (Edom)",
+        "coords": [
+          30.3167,
+          35.4167
+        ],
+        "narrative": "Death and burial of Aaron; high priesthood transferred to Eleazar."
+      },
+      {
+        "name": "Plains of Moab (Opposite Jericho)",
+        "coords": [
+          31.8333,
+          35.6
+        ],
+        "narrative": "Bronze serpent lifted up on the pole; Balaam's prophetic blessings over Israel."
+      }
+    ]
+  },
+  {
+    "id": "DEU",
+    "name": "Deuteronomy",
+    "testament": "Old Testament",
+    "category": "Pentateuch",
+    "region": "Plains of Moab & Mount Nebo",
+    "coordinates": [
+      31.7683,
+      35.7253
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Moses",
+      "Joshua"
+    ],
+    "summary": "Moses' final covenant discourses to the second generation on the east bank of the Jordan, concluding with Moses' view from Mount Nebo.",
+    "milestones": [
+      {
+        "name": "Plains of Moab",
+        "coords": [
+          31.8333,
+          35.6
+        ],
+        "narrative": "Recitation of the Shema: Hear, O Israel: The Lord our God is one Lord."
+      },
+      {
+        "name": "Mount Nebo (Pisgah)",
+        "coords": [
+          31.7683,
+          35.7253
+        ],
+        "narrative": "God shows Moses the entire Promised Land; Moses dies in the presence of the Lord."
+      }
+    ]
+  },
+  {
+    "id": "JOS",
+    "name": "Joshua",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Jericho, Ai, Gibeon, Hazor & Shechem",
+    "coordinates": [
+      31.8706,
+      35.4439
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Joshua",
+      "Rahab",
+      "Achan",
+      "Caleb",
+      "Eleazar"
+    ],
+    "summary": "Jordan river dry crossing, fall of Jericho, southern and northern conquest campaigns, and allotment of tribal inheritances in Canaan.",
+    "milestones": [
+      {
+        "name": "Gilgal",
+        "coords": [
+          31.88,
+          35.48
+        ],
+        "narrative": "Memorial stones set up from the parted Jordan River; circumcision renewed."
+      },
+      {
+        "name": "Jericho",
+        "coords": [
+          31.8706,
+          35.4439
+        ],
+        "narrative": "Walls fall flat after seven days of marching and trumpet blasts; Rahab spared."
+      },
+      {
+        "name": "Valley of Aijalon",
+        "coords": [
+          31.86,
+          35.01
+        ],
+        "narrative": "Sun and moon stand still as Joshua defeats the Amorite confederacy."
+      },
+      {
+        "name": "Hazor",
+        "coords": [
+          33.0183,
+          35.5683
+        ],
+        "narrative": "Jabin's northern coalition shattered; chariot horses hamstrung; city burned."
+      },
+      {
+        "name": "Shechem",
+        "coords": [
+          32.2133,
+          35.2819
+        ],
+        "narrative": "Joshua's farewell charge: As for me and my house, we will serve the Lord."
+      }
+    ]
+  },
+  {
+    "id": "JDG",
+    "name": "Judges",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "All Canaan: Mount Tabor, Jezreel, Timnah & Gaza",
+    "coordinates": [
+      32.6861,
+      35.3889
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Othniel",
+      "Deborah & Barak",
+      "Gideon",
+      "Jephthah",
+      "Samson"
+    ],
+    "summary": "Israel's cycles of idolatry, enemy oppression, repentance, and military deliverance through 12 charismatic judges.",
+    "milestones": [
+      {
+        "name": "Mount Tabor & Kishon River",
+        "coords": [
+          32.6861,
+          35.3889
+        ],
+        "narrative": "Deborah and Barak rout Sisera's 900 iron chariots."
+      },
+      {
+        "name": "Spring of Harod (Jezreel)",
+        "coords": [
+          32.5486,
+          35.3933
+        ],
+        "narrative": "Gideon tests 300 men with water lap; Midianite camp panicked by torches in jars."
+      },
+      {
+        "name": "Lehi & Sorek Valley",
+        "coords": [
+          31.76,
+          34.98
+        ],
+        "narrative": "Samson slays 1,000 Philistines with a donkey's jawbone."
+      },
+      {
+        "name": "Gaza (Philistia)",
+        "coords": [
+          31.5,
+          34.4667
+        ],
+        "narrative": "Samson pulls down the pillars of Dagon's temple in final triumphant sacrifice."
+      }
+    ]
+  },
+  {
+    "id": "RUT",
+    "name": "Ruth",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Moab to Bethlehem-Judah",
+    "coordinates": [
+      31.7054,
+      35.2024
+    ],
+    "zoom": 9,
+    "keyCharacters": [
+      "Ruth",
+      "Naomi",
+      "Boaz"
+    ],
+    "summary": "A story of covenant loyalty (hesed) during the dark era of the Judges; Ruth's redemption in Bethlehem leads to King David's genealogy.",
+    "milestones": [
+      {
+        "name": "Plains of Moab",
+        "coords": [
+          31.8,
+          35.7
+        ],
+        "narrative": "Ruth vows to Naomi: Where you go I will go; your people shall be my people, and your God my God."
+      },
+      {
+        "name": "Barley Fields of Bethlehem",
+        "coords": [
+          31.7054,
+          35.2024
+        ],
+        "narrative": "Ruth gleans in Boaz's fields; Boaz acts as kinsman-redeemer to marry Ruth."
+      }
+    ]
+  },
+  {
+    "id": "1SA",
+    "name": "1 Samuel",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Shiloh, Gibeah, Valley of Elah & En-Gedi",
+    "coordinates": [
+      31.6833,
+      34.9833
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Samuel",
+      "Eli",
+      "King Saul",
+      "Jonathan",
+      "David"
+    ],
+    "summary": "Transition from judges to monarchy: call of Samuel, tragic coronation of Saul, David's victory over Goliath, and David fleeing Saul in the wilderness.",
+    "milestones": [
+      {
+        "name": "Shiloh",
+        "coords": [
+          32.0556,
+          35.2894
+        ],
+        "narrative": "Hannah's answered prayer; young Samuel hears God's voice in the night."
+      },
+      {
+        "name": "Valley of Elah",
+        "coords": [
+          31.6833,
+          34.9833
+        ],
+        "narrative": "Young David defeats the 9-foot giant Goliath with sling and smooth stones."
+      },
+      {
+        "name": "En-Gedi Caves",
+        "coords": [
+          31.4642,
+          35.3892
+        ],
+        "narrative": "David spares Saul's life in the crags of the wild goats."
+      },
+      {
+        "name": "Mount Gilboa",
+        "coords": [
+          32.5028,
+          35.4194
+        ],
+        "narrative": "Saul and Jonathan die in battle against the Philistines."
+      }
+    ]
+  },
+  {
+    "id": "2SA",
+    "name": "2 Samuel",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Hebron & City of David (Jerusalem)",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 9,
+    "keyCharacters": [
+      "King David",
+      "Joab",
+      "Nathan",
+      "Bathsheba",
+      "Absalom"
+    ],
+    "summary": "David anointed king over Judah in Hebron and united Israel in Jerusalem; the Davidic Covenant; David's fall and repentance; Absalom's revolt.",
+    "milestones": [
+      {
+        "name": "Hebron",
+        "coords": [
+          31.5297,
+          35.0938
+        ],
+        "narrative": "David reigns seven years over Judah before the tribes unite."
+      },
+      {
+        "name": "Jerusalem (Zion)",
+        "coords": [
+          31.7767,
+          35.2345
+        ],
+        "narrative": "Jebusite fortress conquered; Ark of the Covenant brought up with dancing."
+      },
+      {
+        "name": "Mount of Olives & Jordan",
+        "coords": [
+          31.78,
+          35.24
+        ],
+        "narrative": "David weeps as he flees Jerusalem during Absalom's rebellion; later restored."
+      }
+    ]
+  },
+  {
+    "id": "1KI",
+    "name": "1 Kings",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Jerusalem, Shechem, Samaria & Mount Carmel",
+    "coordinates": [
+      32.735,
+      35.045
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "King Solomon",
+      "Rehoboam",
+      "Jeroboam",
+      "Elijah",
+      "Ahab & Jezebel"
+    ],
+    "summary": "Solomon builds the glorious Temple; kingdom divides into Judah and Israel; Elijah challenges Baal prophets on Mount Carmel.",
+    "milestones": [
+      {
+        "name": "Temple Mount (Jerusalem)",
+        "coords": [
+          31.778,
+          35.2354
+        ],
+        "narrative": "Solomon dedicates the Temple; glory of the Lord fills the house with fire."
+      },
+      {
+        "name": "Mount Carmel",
+        "coords": [
+          32.735,
+          35.045
+        ],
+        "narrative": "Elijah challenges 450 prophets of Baal; fire falls from heaven consuming the drenched altar."
+      },
+      {
+        "name": "Mount Horeb (Sinai)",
+        "coords": [
+          28.5397,
+          33.9753
+        ],
+        "narrative": "God reveals Himself to Elijah not in the wind, earthquake, or fire, but in a still small voice."
+      }
+    ]
+  },
+  {
+    "id": "2KI",
+    "name": "2 Kings",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Samaria, Jordan River, Jerusalem & Babylon",
+    "coordinates": [
+      32.2764,
+      35.1889
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Elijah & Elisha",
+      "Naaman",
+      "Jehu",
+      "Hezekiah",
+      "Josiah",
+      "Nebuchadnezzar"
+    ],
+    "summary": "Elijah translated in a fiery whirlwind; Elisha's double portion miracles; fall of Northern Israel to Assyria (722 BC); fall of Jerusalem to Babylon (586 BC).",
+    "milestones": [
+      {
+        "name": "Jordan River (Near Jericho)",
+        "coords": [
+          31.85,
+          35.53
+        ],
+        "narrative": "Elijah taken to heaven in chariot of fire; Elisha receives mantle."
+      },
+      {
+        "name": "Samaria",
+        "coords": [
+          32.2764,
+          35.1889
+        ],
+        "narrative": "Northern Kingdom falls to Sargon II of Assyria; ten tribes deported."
+      },
+      {
+        "name": "Jerusalem (Hezekiah's Tunnel)",
+        "coords": [
+          31.7725,
+          35.2361
+        ],
+        "narrative": "Angel of the Lord strikes 185,000 Assyrian soldiers; city delivered."
+      }
+    ]
+  },
+  {
+    "id": "1CH",
+    "name": "1 Chronicles",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Genealogies of Israel & Jerusalem",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 9,
+    "keyCharacters": [
+      "David",
+      "Levites & Priests"
+    ],
+    "summary": "Post-exilic retelling of Israel's royal lineage and David's preparations for the temple worship, Levites, and singers.",
+    "milestones": [
+      {
+        "name": "Threshing Floor of Ornan",
+        "coords": [
+          31.778,
+          35.2354
+        ],
+        "narrative": "David buys the threshing floor where the angel of the Lord stopped; site of future altar."
+      }
+    ]
+  },
+  {
+    "id": "2CH",
+    "name": "2 Chronicles",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Jerusalem, Judah & Babylonian Captivity",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Solomon",
+      "Asa",
+      "Jehoshaphat",
+      "Hezekiah",
+      "Josiah",
+      "Cyrus"
+    ],
+    "summary": "History of the Temple and southern kingdom kings; revivals under Jehoshaphat, Hezekiah, and Josiah; decree of Cyrus of Persia.",
+    "milestones": [
+      {
+        "name": "Wilderness of Tekoa",
+        "coords": [
+          31.65,
+          35.22
+        ],
+        "narrative": "Jehoshaphat appoints singers before the army; enemies defeat themselves as they praise."
+      },
+      {
+        "name": "Susa & Babylon",
+        "coords": [
+          32.1894,
+          48.2433
+        ],
+        "narrative": "Cyrus decrees Jewish return to Jerusalem to rebuild the house of God."
+      }
+    ]
+  },
+  {
+    "id": "EZR",
+    "name": "Ezra",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Babylon to Jerusalem",
+    "coordinates": [
+      31.778,
+      35.2354
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Zerubbabel",
+      "Jeshua",
+      "Ezra the Scribe",
+      "King Cyrus & Darius"
+    ],
+    "summary": "Remnant returns under Zerubbabel to rebuild the second Temple, followed by Ezra's return to teach the Law and reform the people.",
+    "milestones": [
+      {
+        "name": "Temple Foundation (Jerusalem)",
+        "coords": [
+          31.778,
+          35.2354
+        ],
+        "narrative": "Old priests weep while young people shout for joy as second Temple foundation laid."
+      }
+    ]
+  },
+  {
+    "id": "NEH",
+    "name": "Nehemiah",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Susa to Jerusalem",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Nehemiah",
+      "Ezra",
+      "Sanballat & Tobiah"
+    ],
+    "summary": "Cupbearer to the Persian king returns to Jerusalem and rebuilds the shattered stone walls in 52 days amid fierce opposition.",
+    "milestones": [
+      {
+        "name": "Walls of Jerusalem",
+        "coords": [
+          31.7767,
+          35.2345
+        ],
+        "narrative": "Builders work with a trowel in one hand and a weapon in the other; walls completed in 52 days."
+      },
+      {
+        "name": "Water Gate (Jerusalem)",
+        "coords": [
+          31.774,
+          35.237
+        ],
+        "narrative": "Ezra reads the Book of the Law from dawn till noon; people weep and celebrate the Joy of the Lord."
+      }
+    ]
+  },
+  {
+    "id": "EST",
+    "name": "Esther",
+    "testament": "Old Testament",
+    "category": "Historical",
+    "region": "Susa (Citadel of Persian Empire)",
+    "coordinates": [
+      32.1894,
+      48.2433
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Queen Esther (Hadassah)",
+      "Mordecai",
+      "King Ahasuerus (Xerxes)",
+      "Haman"
+    ],
+    "summary": "God's providential protection of the Jewish people from genocide in the Persian capital through Queen Esther and Mordecai.",
+    "milestones": [
+      {
+        "name": "Royal Palace of Susa",
+        "coords": [
+          32.1894,
+          48.2433
+        ],
+        "narrative": "Esther approaches the throne uninvited: If I perish, I perish; golden scepter held out."
+      }
+    ]
+  },
+  {
+    "id": "JOB",
+    "name": "Job",
+    "testament": "Old Testament",
+    "category": "Poetry & Wisdom",
+    "region": "Land of Uz (Near Edom / Arabia)",
+    "coordinates": [
+      30,
+      36
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Job",
+      "Eliphaz",
+      "Bildad",
+      "Zophar",
+      "Elihu",
+      "The Lord"
+    ],
+    "summary": "The mystery of righteous suffering, divine sovereignty, and redemption; God answers Job out of the whirlwind.",
+    "milestones": [
+      {
+        "name": "Land of Uz",
+        "coords": [
+          30,
+          36
+        ],
+        "narrative": "Job declares: I know that my Redeemer lives, and that He shall stand at the latter day upon the earth."
+      }
+    ]
+  },
+  {
+    "id": "PSA",
+    "name": "Psalms",
+    "testament": "Old Testament",
+    "category": "Poetry & Wisdom",
+    "region": "Judean Wilderness, Zion & Temple Courts",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "David",
+      "Asaph",
+      "Sons of Korah",
+      "Solomon",
+      "Moses"
+    ],
+    "summary": "The inspired hymnal and prayer book of Israel expressing worship, repentance, messianic prophecy, and thanksgiving.",
+    "milestones": [
+      {
+        "name": "Mount Zion & Temple Sanctuary",
+        "coords": [
+          31.778,
+          35.2354
+        ],
+        "narrative": "Psalm 23: The Lord is my shepherd; I shall not want. He maketh me to lie down in green pastures."
+      }
+    ]
+  },
+  {
+    "id": "PRO",
+    "name": "Proverbs",
+    "testament": "Old Testament",
+    "category": "Poetry & Wisdom",
+    "region": "Royal Court of Jerusalem",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 9,
+    "keyCharacters": [
+      "Solomon",
+      "Agur",
+      "King Lemuel"
+    ],
+    "summary": "Practical moral aphorisms, divine wisdom for righteous living, and the praise of the virtuous Proverbs 31 woman.",
+    "milestones": [
+      {
+        "name": "Gates of Jerusalem",
+        "coords": [
+          31.7767,
+          35.2345
+        ],
+        "narrative": "Trust in the Lord with all thine heart; and lean not unto thine own understanding (Prov 3:5)."
+      }
+    ]
+  },
+  {
+    "id": "ECC",
+    "name": "Ecclesiastes",
+    "testament": "Old Testament",
+    "category": "Poetry & Wisdom",
+    "region": "Jerusalem Palaces",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 9,
+    "keyCharacters": [
+      "The Preacher (Solomon)"
+    ],
+    "summary": "Exploration of the vanity of earthly pursuits apart from God, concluding with the call to fear God and keep His commandments.",
+    "milestones": [
+      {
+        "name": "Gardens of Solomon (Jerusalem)",
+        "coords": [
+          31.77,
+          35.23
+        ],
+        "narrative": "To every thing there is a season, and a time to every purpose under heaven (Eccl 3:1)."
+      }
+    ]
+  },
+  {
+    "id": "SNG",
+    "name": "Song of Solomon",
+    "testament": "Old Testament",
+    "category": "Poetry & Wisdom",
+    "region": "Jerusalem, En-Gedi, Sharon & Lebanon",
+    "coordinates": [
+      33,
+      35.5
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "The Beloved",
+      "The Shulammite Maiden"
+    ],
+    "summary": "A lyrical celebration of marital love, spiritual passion, and Christ's intimate devotion to His bride.",
+    "milestones": [
+      {
+        "name": "Vineyards of En-Gedi",
+        "coords": [
+          31.4642,
+          35.3892
+        ],
+        "narrative": "My beloved is unto me as a cluster of camphire in the vineyards of En-gedi."
+      }
+    ]
+  },
+  {
+    "id": "ISA",
+    "name": "Isaiah",
+    "testament": "Old Testament",
+    "category": "Major Prophets",
+    "region": "Jerusalem Royal Court",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Isaiah",
+      "King Uzziah",
+      "King Ahaz",
+      "King Hezekiah",
+      "Cyrus (Prophesied)"
+    ],
+    "summary": "The Fifth Gospel: glorious vision of the Lord high and lifted up, prophecies of the Virgin Birth, the Suffering Servant (Isa 53), and New Creation.",
+    "milestones": [
+      {
+        "name": "Temple Sanctuary (Jerusalem)",
+        "coords": [
+          31.778,
+          35.2354
+        ],
+        "narrative": "In the year King Uzziah died, I saw the Lord seated on a throne, high and lifted up, and His train filled the temple."
+      },
+      {
+        "name": "Gihon Conduit",
+        "coords": [
+          31.7725,
+          35.2361
+        ],
+        "narrative": "Sign of Immanuel given: Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel."
+      }
+    ]
+  },
+  {
+    "id": "JER",
+    "name": "Jeremiah",
+    "testament": "Old Testament",
+    "category": "Major Prophets",
+    "region": "Anathoth, Jerusalem, Mizpah & Tahpanhes (Egypt)",
+    "coordinates": [
+      31.8153,
+      35.2639
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Jeremiah",
+      "Baruch",
+      "King Zedekiah",
+      "Ebed-Melech"
+    ],
+    "summary": "The weeping prophet's 40-year ministry warning of the Babylonian invasion, promise of the New Covenant written on hearts, and potter's house.",
+    "milestones": [
+      {
+        "name": "Anathoth (Benjamin)",
+        "coords": [
+          31.8153,
+          35.2639
+        ],
+        "narrative": "God calls young Jeremiah: Before I formed you in the womb I knew you."
+      },
+      {
+        "name": "Potter's House (Jerusalem)",
+        "coords": [
+          31.77,
+          35.23
+        ],
+        "narrative": "The clay reworked in the potter's hand; sovereign grace over nations."
+      },
+      {
+        "name": "Dungeon Cistern of Malchiah",
+        "coords": [
+          31.776,
+          35.234
+        ],
+        "narrative": "Jeremiah lowered into the deep mud; rescued by Ebed-Melech the Ethiopian."
+      }
+    ]
+  },
+  {
+    "id": "LAM",
+    "name": "Lamentations",
+    "testament": "Old Testament",
+    "category": "Major Prophets",
+    "region": "Ruins of Jerusalem & Mount Zion",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 9,
+    "keyCharacters": [
+      "Jeremiah"
+    ],
+    "summary": "Five acrostic funeral poems weeping over the devastation of Jerusalem, resting in the unshakable truth: Great is Thy Faithfulness.",
+    "milestones": [
+      {
+        "name": "Ruined Temple Mount",
+        "coords": [
+          31.778,
+          35.2354
+        ],
+        "narrative": "The steadfast love of the Lord never ceases; His mercies are new every morning: great is Thy faithfulness."
+      }
+    ]
+  },
+  {
+    "id": "EZK",
+    "name": "Ezekiel",
+    "testament": "Old Testament",
+    "category": "Major Prophets",
+    "region": "River Chebar (Babylon)",
+    "coordinates": [
+      32,
+      44.5
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Ezekiel the Priest"
+    ],
+    "summary": "Vision of God's fiery throne chariot in Babylon, departure and return of the Glory, valley of dry bones reviving, and the millennial temple.",
+    "milestones": [
+      {
+        "name": "River Chebar (Nippur Canal)",
+        "coords": [
+          32.1264,
+          45.2308
+        ],
+        "narrative": "Ezekiel sees the heavens opened and visions of God with four living creatures and wheels of fire."
+      },
+      {
+        "name": "Valley of Dry Bones",
+        "coords": [
+          32.2,
+          45
+        ],
+        "narrative": "Prophesy to the breath: bone comes to bone, sinews attach, and an exceedingly great army stands!"
+      }
+    ]
+  },
+  {
+    "id": "DAN",
+    "name": "Daniel",
+    "testament": "Old Testament",
+    "category": "Major Prophets",
+    "region": "Babylon & Susa (Persia)",
+    "coordinates": [
+      32.5363,
+      44.4208
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Daniel (Belteshazzar)",
+      "Shadrach, Meshach & Abednego",
+      "Nebuchadnezzar",
+      "Belshazzar",
+      "Darius"
+    ],
+    "summary": "Faithfulness in exile, dream of four successive world empires, fourth man in the fiery furnace, lions' den, and end-times apocalyptic visions.",
+    "milestones": [
+      {
+        "name": "Plain of Dura (Babylon)",
+        "coords": [
+          32.48,
+          44.48
+        ],
+        "narrative": "Three Hebrew youths thrown into seven-times heated furnace; fourth man walking in the fire like the Son of God."
+      },
+      {
+        "name": "Royal Palace of Babylon",
+        "coords": [
+          32.5363,
+          44.4208
+        ],
+        "narrative": "Mysterious hand writes on plaster: MENE, MENE, TEKEL, UPHARSIN; Babylon falls that night."
+      },
+      {
+        "name": "Den of Lions (Babylon)",
+        "coords": [
+          32.54,
+          44.43
+        ],
+        "narrative": "Daniel kept safe overnight: My God sent His angel and shut the lions' mouths."
+      }
+    ]
+  },
+  {
+    "id": "HOS",
+    "name": "Hosea",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Northern Kingdom (Samaria)",
+    "coordinates": [
+      32.2764,
+      35.1889
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Hosea",
+      "Gomer"
+    ],
+    "summary": "Prophetic drama of marriage to unfaithful Gomer, portraying God's unquenchable covenant love for backsliding Israel.",
+    "milestones": [
+      {
+        "name": "Samaria",
+        "coords": [
+          32.2764,
+          35.1889
+        ],
+        "narrative": "Hosea buys Gomer back from the slave block: I will betroth you to Me forever in righteousness and love."
+      }
+    ]
+  },
+  {
+    "id": "JOL",
+    "name": "Joel",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Jerusalem & Judah",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Joel"
+    ],
+    "summary": "Locust plague warning of the Day of the Lord, call to solemn assembly, and prophecy of the Holy Spirit poured out on all flesh.",
+    "milestones": [
+      {
+        "name": "Valley of Jehoshaphat",
+        "coords": [
+          31.78,
+          35.24
+        ],
+        "narrative": "I will pour out My Spirit upon all flesh; your sons and your daughters shall prophesy."
+      }
+    ]
+  },
+  {
+    "id": "AMO",
+    "name": "Amos",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Tekoa (Judah) to Bethel (Israel)",
+    "coordinates": [
+      31.93,
+      35.22
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Amos the Herdsman",
+      "Amaziah Priest of Bethel"
+    ],
+    "summary": "Shepherd from Tekoa denounces social oppression and empty religion in Israel: Let justice roll down like waters.",
+    "milestones": [
+      {
+        "name": "Bethel Sanctuary",
+        "coords": [
+          31.93,
+          35.22
+        ],
+        "narrative": "Amos confronts corrupt priest Amaziah: The Lord took me as I followed the flock, and said, Go, prophesy."
+      }
+    ]
+  },
+  {
+    "id": "OBA",
+    "name": "Obadiah",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Petra / Mount Seir (Edom)",
+    "coordinates": [
+      30.3285,
+      35.4444
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Obadiah"
+    ],
+    "summary": "Divine judgment on haughty Edom for gloating over Jerusalem's destruction; deliverance on Mount Zion.",
+    "milestones": [
+      {
+        "name": "Sela / Petra (Edom)",
+        "coords": [
+          30.3285,
+          35.4444
+        ],
+        "narrative": "Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down."
+      }
+    ]
+  },
+  {
+    "id": "JON",
+    "name": "Jonah",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Joppa, Mediterranean Sea & Nineveh",
+    "coordinates": [
+      36.3589,
+      43.1583
+    ],
+    "zoom": 6,
+    "keyCharacters": [
+      "Jonah",
+      "Great Fish",
+      "King of Nineveh"
+    ],
+    "summary": "Reluctant prophet flees to Tarshish, swallowed by a great fish, preaches in brutal Nineveh, and witnesses greatest city revival.",
+    "milestones": [
+      {
+        "name": "Port of Joppa (Tel Aviv)",
+        "coords": [
+          32.0536,
+          34.7508
+        ],
+        "narrative": "Jonah boards ship fleeing to Tarshish from the presence of the Lord."
+      },
+      {
+        "name": "Nineveh (Modern Mosul, Iraq)",
+        "coords": [
+          36.3589,
+          43.1583
+        ],
+        "narrative": "Entire city of 120,000 puts on sackcloth and ashes; God relents from judgment."
+      }
+    ]
+  },
+  {
+    "id": "MIC",
+    "name": "Micah",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Moresheth-Gath, Jerusalem & Bethlehem",
+    "coordinates": [
+      31.7054,
+      35.2024
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Micah"
+    ],
+    "summary": "Preaches against injustice and announces the exact birthplace of the coming eternal Ruler in Bethlehem Ephrathah.",
+    "milestones": [
+      {
+        "name": "Bethlehem Ephrathah",
+        "coords": [
+          31.7054,
+          35.2024
+        ],
+        "narrative": "But thou, Bethlehem Ephratah... out of thee shall He come forth unto Me that is to be Ruler in Israel."
+      }
+    ]
+  },
+  {
+    "id": "NAM",
+    "name": "Nahum",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Nineveh (Assyrian Capital)",
+    "coordinates": [
+      36.3589,
+      43.1583
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Nahum"
+    ],
+    "summary": "Proclaims the irreversible destruction of cruel Nineveh by flood and fire, avenging God's scattered people.",
+    "milestones": [
+      {
+        "name": "Tigris River Gates (Nineveh)",
+        "coords": [
+          36.3589,
+          43.1583
+        ],
+        "narrative": "The gates of the rivers shall be opened, and the palace shall be dissolved."
+      }
+    ]
+  },
+  {
+    "id": "HAB",
+    "name": "Habakkuk",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Watchtower of Judah",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Habakkuk"
+    ],
+    "summary": "A prophet's honest dialogue with God about evil and judgment, culminating in the triumphant statement: The just shall live by faith.",
+    "milestones": [
+      {
+        "name": "Prophetic Watchtower",
+        "coords": [
+          31.7767,
+          35.2345
+        ],
+        "narrative": "I will stand upon my watch... Though the fig tree shall not blossom... yet I will rejoice in the Lord!"
+      }
+    ]
+  },
+  {
+    "id": "ZEP",
+    "name": "Zephaniah",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Jerusalem & Surrounding Nations",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Zephaniah (Great-great-grandson of Hezekiah)"
+    ],
+    "summary": "The purifying fire of the Day of the Lord and God's joyful restoration of a humble remnant: The Lord will rejoice over you with singing.",
+    "milestones": [
+      {
+        "name": "Moriah / Zion",
+        "coords": [
+          31.778,
+          35.2354
+        ],
+        "narrative": "The Lord thy God in the midst of thee is mighty; He will save, He will rejoice over thee with joy."
+      }
+    ]
+  },
+  {
+    "id": "HAG",
+    "name": "Haggai",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Post-Exilic Jerusalem",
+    "coordinates": [
+      31.778,
+      35.2354
+    ],
+    "zoom": 9,
+    "keyCharacters": [
+      "Haggai",
+      "Zerubbabel Governor",
+      "Joshua High Priest"
+    ],
+    "summary": "Exhortation to stop neglecting the Lord's house and rebuild the second Temple: The glory of this latter house shall be greater than the former.",
+    "milestones": [
+      {
+        "name": "Second Temple Foundation",
+        "coords": [
+          31.778,
+          35.2354
+        ],
+        "narrative": "Consider your ways... Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it."
+      }
+    ]
+  },
+  {
+    "id": "ZEC",
+    "name": "Zechariah",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Post-Exilic Jerusalem & Mount of Olives",
+    "coordinates": [
+      31.778,
+      35.24
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Zechariah",
+      "Zerubbabel",
+      "Joshua"
+    ],
+    "summary": "Night visions, Messianic prophecies of the King riding on a donkey, pierced for 30 pieces of silver, and feet standing on Mount of Olives.",
+    "milestones": [
+      {
+        "name": "Mount of Olives",
+        "coords": [
+          31.78,
+          35.24
+        ],
+        "narrative": "His feet shall stand in that day upon the Mount of Olives, which is before Jerusalem on the east."
+      }
+    ]
+  },
+  {
+    "id": "MAL",
+    "name": "Malachi",
+    "testament": "Old Testament",
+    "category": "Minor Prophets",
+    "region": "Second Temple Courts (Jerusalem)",
+    "coordinates": [
+      31.778,
+      35.2354
+    ],
+    "zoom": 9,
+    "keyCharacters": [
+      "Malachi"
+    ],
+    "summary": "Final Old Testament voice addressing corrupt priests, broken covenants, tithing, and the promised forerunner Elijah before the Sun of Righteousness.",
+    "milestones": [
+      {
+        "name": "Temple Storehouse",
+        "coords": [
+          31.778,
+          35.2354
+        ],
+        "narrative": "Bring ye all the tithes into the storehouse... and prove Me now herewith, saith the Lord of hosts."
+      }
+    ]
+  },
+  {
+    "id": "MAT",
+    "name": "Matthew",
+    "testament": "New Testament",
+    "category": "Gospels & Acts",
+    "region": "Bethlehem, Galilee, Capernaum & Jerusalem",
+    "coordinates": [
+      32.8811,
+      35.5756
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Jesus the Messiah King",
+      "Mary & Joseph",
+      "The Twelve Apostles",
+      "Peter"
+    ],
+    "summary": "Gospel of the Kingdom: Jesus presented as Davidic King, Sermon on the Mount, Kingdom Parables, Olivet Discourse, and Great Commission.",
+    "milestones": [
+      {
+        "name": "Mount of Beatitudes",
+        "coords": [
+          32.8811,
+          35.5756
+        ],
+        "narrative": "Blessed are the poor in spirit: for theirs is the kingdom of heaven. You are the light of the world."
+      },
+      {
+        "name": "Capernaum (Galilee Headquarters)",
+        "coords": [
+          32.8822,
+          35.5739
+        ],
+        "narrative": "Centurion's servant healed; Peter's mother-in-law healed; paralytic let down through the roof."
+      },
+      {
+        "name": "Caesarea Philippi",
+        "coords": [
+          33.2483,
+          35.6933
+        ],
+        "narrative": "Peter confesses: Thou art the Christ, the Son of the living God. Upon this rock I will build My church."
+      },
+      {
+        "name": "Golgotha & Garden Tomb",
+        "coords": [
+          31.7838,
+          35.2301
+        ],
+        "narrative": "Jesus crucified, resurrected on the third day; gives the Great Commission to make disciples of all nations."
+      }
+    ]
+  },
+  {
+    "id": "MRK",
+    "name": "Mark",
+    "testament": "New Testament",
+    "category": "Gospels & Acts",
+    "region": "Sea of Galilee, Decapolis & Jerusalem",
+    "coordinates": [
+      32.82,
+      35.58
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Jesus the Suffering Servant",
+      "Peter",
+      "John Mark"
+    ],
+    "summary": "Fast-moving Gospel of immediate divine power and servanthood: For even the Son of man came not to be ministered unto, but to minister.",
+    "milestones": [
+      {
+        "name": "Sea of Galilee Storm",
+        "coords": [
+          32.82,
+          35.58
+        ],
+        "narrative": "Jesus rebukes the tempest: Peace, be still! The wind ceased, and there was a great calm."
+      },
+      {
+        "name": "Gerasenes / Gadara",
+        "coords": [
+          32.81,
+          35.65
+        ],
+        "narrative": "Demoniac with Legion freed; sits clothed and in his right mind at Jesus' feet."
+      }
+    ]
+  },
+  {
+    "id": "LUK",
+    "name": "Luke",
+    "testament": "New Testament",
+    "category": "Gospels & Acts",
+    "region": "Nazareth, Samaria, Jericho & Emmaus",
+    "coordinates": [
+      32.7019,
+      35.2978
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Jesus the Son of Man",
+      "Luke the Physician",
+      "Zacchaeus",
+      "The Good Samaritan"
+    ],
+    "summary": "Historical account of compassion for the outcast, parables of grace (Prodigal Son), Zacchaeus in Jericho, and Road to Emmaus revelation.",
+    "milestones": [
+      {
+        "name": "Nazareth Synagogue",
+        "coords": [
+          32.7019,
+          35.2978
+        ],
+        "narrative": "The Spirit of the Lord is upon Me, because He hath anointed Me to preach the gospel to the poor."
+      },
+      {
+        "name": "Jericho Sycamore Tree",
+        "coords": [
+          31.8706,
+          35.4439
+        ],
+        "narrative": "Zacchaeus comes down: Today is salvation come to this house... The Son of man is come to seek and to save that which was lost."
+      },
+      {
+        "name": "Road to Emmaus",
+        "coords": [
+          31.84,
+          35.01
+        ],
+        "narrative": "Risen Christ opens the scriptures; disciples' hearts burn within them as He breaks bread."
+      }
+    ]
+  },
+  {
+    "id": "JHN",
+    "name": "John",
+    "testament": "New Testament",
+    "category": "Gospels & Acts",
+    "region": "Bethabara, Cana, Sychar, Bethesda & Jerusalem",
+    "coordinates": [
+      31.78,
+      35.23
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Jesus the Word Made Flesh",
+      "John the Apostle",
+      "Nicodemus",
+      "Samaritan Woman",
+      "Lazarus"
+    ],
+    "summary": "The divine Son of God: Seven Great Signs and Seven I AM declarations: I am the resurrection, and the life.",
+    "milestones": [
+      {
+        "name": "Cana of Galilee",
+        "coords": [
+          32.7483,
+          35.3389
+        ],
+        "narrative": "First miracle: water turned into finest wine at wedding celebration."
+      },
+      {
+        "name": "Jacob's Well (Sychar)",
+        "coords": [
+          32.2094,
+          35.2839
+        ],
+        "narrative": "Jesus offers Living Water: God is a Spirit, and they that worship Him must worship in spirit and truth."
+      },
+      {
+        "name": "Pool of Bethesda",
+        "coords": [
+          31.7814,
+          35.2361
+        ],
+        "narrative": "Man lame for 38 years takes up his bed and walks at Jesus' command."
+      },
+      {
+        "name": "Bethany (Tomb of Lazarus)",
+        "coords": [
+          31.77,
+          35.26
+        ],
+        "narrative": "Jesus calls: Lazarus, come forth! The dead man walks out unbound."
+      }
+    ]
+  },
+  {
+    "id": "ACT",
+    "name": "Acts",
+    "testament": "New Testament",
+    "category": "Gospels & Acts",
+    "region": "Jerusalem, Antioch, Asia Minor, Greece & Rome",
+    "coordinates": [
+      37.9838,
+      23.7275
+    ],
+    "zoom": 5,
+    "keyCharacters": [
+      "Peter",
+      "Paul",
+      "Stephen",
+      "Barnabas",
+      "Philip",
+      "Silas",
+      "Luke"
+    ],
+    "summary": "Outpouring of the Holy Spirit on Pentecost and explosion of the Gospel across the Roman Empire from Jerusalem to Rome.",
+    "milestones": [
+      {
+        "name": "Upper Room (Jerusalem)",
+        "coords": [
+          31.7719,
+          35.2294
+        ],
+        "narrative": "Day of Pentecost: Sound of a rushing mighty wind, cloven tongues of fire, 3,000 saved."
+      },
+      {
+        "name": "Damascus Road",
+        "coords": [
+          33.5138,
+          36.2765
+        ],
+        "narrative": "Blinding light from heaven knocks Saul down: Saul, Saul, why persecutest thou Me?"
+      },
+      {
+        "name": "Antioch on the Orontes",
+        "coords": [
+          36.2021,
+          36.1606
+        ],
+        "narrative": "Disciples first called Christians; missionary staging center for Barnabas and Paul."
+      },
+      {
+        "name": "Philippi (Europe)",
+        "coords": [
+          41.0133,
+          24.2867
+        ],
+        "narrative": "Midnight praise in prison causes great earthquake; jailer and household saved."
+      },
+      {
+        "name": "Mars Hill / Areopagus (Athens)",
+        "coords": [
+          37.9722,
+          23.7236
+        ],
+        "narrative": "Paul preaches the Unknown God to Greek philosophers: In Him we live, and move, and have our being."
+      },
+      {
+        "name": "Rome",
+        "coords": [
+          41.9028,
+          12.4964
+        ],
+        "narrative": "Paul preaches unhindered under house arrest, testifying of Christ to Caesar's household."
+      }
+    ]
+  },
+  {
+    "id": "ROM",
+    "name": "Romans",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Corinth (Written) to Rome",
+    "coordinates": [
+      41.9028,
+      12.4964
+    ],
+    "zoom": 6,
+    "keyCharacters": [
+      "Paul",
+      "Phoebe",
+      "Priscilla & Aquila"
+    ],
+    "summary": "The masterpiece of salvation: justification by faith alone, the righteousness of God, Romans 8 victory, and living sacrifice.",
+    "milestones": [
+      {
+        "name": "Imperial Rome",
+        "coords": [
+          41.9028,
+          12.4964
+        ],
+        "narrative": "I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth."
+      }
+    ]
+  },
+  {
+    "id": "1CO",
+    "name": "1 Corinthians",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Ephesus (Written) to Corinth (Greece)",
+    "coordinates": [
+      37.9056,
+      22.8797
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Paul",
+      "Sosthenes",
+      "Apollos"
+    ],
+    "summary": "Correcting divisions, immorality, and worship chaos; the Love Chapter (1 Cor 13) and resurrection defense (1 Cor 15).",
+    "milestones": [
+      {
+        "name": "Ancient Corinth",
+        "coords": [
+          37.9056,
+          22.8797
+        ],
+        "narrative": "Love is patient, love is kind... And now abide faith, hope, love, these three; but the greatest of these is love."
+      }
+    ]
+  },
+  {
+    "id": "2CO",
+    "name": "2 Corinthians",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Macedonia to Corinth",
+    "coordinates": [
+      37.9056,
+      22.8797
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Paul",
+      "Titus"
+    ],
+    "summary": "Paul's apostolic heart: treasure in earthen vessels, the ministry of reconciliation, and divine grace perfected in weakness.",
+    "milestones": [
+      {
+        "name": "Bema Seat of Corinth",
+        "coords": [
+          37.9056,
+          22.8797
+        ],
+        "narrative": "My grace is sufficient for thee: for My strength is made perfect in weakness."
+      }
+    ]
+  },
+  {
+    "id": "GAL",
+    "name": "Galatians",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Antioch to Southern Galatia (Pisidian Antioch, Iconium, Lystra, Derbe)",
+    "coordinates": [
+      37.8719,
+      32.4844
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Paul",
+      "Peter",
+      "Barnabas"
+    ],
+    "summary": "The Magna Carta of Christian Liberty: defense of pure grace over circumcision/legalism; the fruit of the Spirit.",
+    "milestones": [
+      {
+        "name": "Iconium & Lystra",
+        "coords": [
+          37.8719,
+          32.4844
+        ],
+        "narrative": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me."
+      }
+    ]
+  },
+  {
+    "id": "EPH",
+    "name": "Ephesians",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Rome Prison to Ephesus (Asia Minor)",
+    "coordinates": [
+      37.9408,
+      27.3414
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Paul",
+      "Tychicus"
+    ],
+    "summary": "The mystery of the Body of Christ, seated in heavenly places, grace through faith, and putting on the Whole Armor of God.",
+    "milestones": [
+      {
+        "name": "Great Theater of Ephesus",
+        "coords": [
+          37.9408,
+          27.3414
+        ],
+        "narrative": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God. Put on the whole armor of God!"
+      }
+    ]
+  },
+  {
+    "id": "PHP",
+    "name": "Philippians",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Rome Prison to Philippi (Macedonia)",
+    "coordinates": [
+      41.0133,
+      24.2867
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Paul",
+      "Timothy",
+      "Epaphroditus",
+      "Lydia"
+    ],
+    "summary": "The Epistle of Joy: the mind of Christ (Phil 2 kenosis), pressing toward the mark, and I can do all things through Christ.",
+    "milestones": [
+      {
+        "name": "Gangites River (Philippi)",
+        "coords": [
+          41.0133,
+          24.2867
+        ],
+        "narrative": "Rejoice in the Lord alway: and again I say, Rejoice! I can do all things through Christ which strengtheneth me."
+      }
+    ]
+  },
+  {
+    "id": "COL",
+    "name": "Colossians",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Rome Prison to Colossae (Lycus Valley)",
+    "coordinates": [
+      37.7878,
+      29.2589
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Paul",
+      "Epaphras",
+      "Tychicus",
+      "Onesimus"
+    ],
+    "summary": "The cosmic preeminence of Jesus Christ over all creation, invisible powers, and philosophical deceit: Christ in you, the hope of glory.",
+    "milestones": [
+      {
+        "name": "Ancient Colossae",
+        "coords": [
+          37.7878,
+          29.2589
+        ],
+        "narrative": "For by Him were all things created, that are in heaven, and that are in earth, visible and invisible... He is before all things."
+      }
+    ]
+  },
+  {
+    "id": "1TH",
+    "name": "1 Thessalonians",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Corinth to Thessalonica (Greece)",
+    "coordinates": [
+      40.6401,
+      22.9444
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Paul",
+      "Silas",
+      "Timothy"
+    ],
+    "summary": "Holy living and the glorious return of Jesus Christ: The Lord Himself shall descend from heaven with a shout.",
+    "milestones": [
+      {
+        "name": "Thessalonica Agora",
+        "coords": [
+          40.6401,
+          22.9444
+        ],
+        "narrative": "For the Lord Himself shall descend from heaven with a shout, with the voice of the archangel... and so shall we ever be with the Lord."
+      }
+    ]
+  },
+  {
+    "id": "2TH",
+    "name": "2 Thessalonians",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Corinth to Thessalonica",
+    "coordinates": [
+      40.6401,
+      22.9444
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Paul",
+      "Silas",
+      "Timothy"
+    ],
+    "summary": "Clarification on the Day of the Lord, exposing the man of lawlessness, and exhortation to steadfast daily work.",
+    "milestones": [
+      {
+        "name": "Thessalonica Port",
+        "coords": [
+          40.6401,
+          22.9444
+        ],
+        "narrative": "Now the Lord of peace Himself give you peace always by all means. The Lord be with you all."
+      }
+    ]
+  },
+  {
+    "id": "1TI",
+    "name": "1 Timothy",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Macedonia to Timothy at Ephesus",
+    "coordinates": [
+      37.9408,
+      27.3414
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Paul",
+      "Timothy"
+    ],
+    "summary": "Pastoral handbook on sound doctrine, elder/deacon qualifications, order in church gatherings, and fighting the good fight of faith.",
+    "milestones": [
+      {
+        "name": "Ephesus Assembly",
+        "coords": [
+          37.9408,
+          27.3414
+        ],
+        "narrative": "Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called."
+      }
+    ]
+  },
+  {
+    "id": "2TI",
+    "name": "2 Timothy",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Mamertine Dungeon (Rome) to Timothy",
+    "coordinates": [
+      41.8928,
+      12.4842
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Paul",
+      "Timothy",
+      "Lois & Eunice",
+      "Luke"
+    ],
+    "summary": "Paul's moving final letter before execution under Nero: I have fought a good fight, I have finished my course, I have kept the faith.",
+    "milestones": [
+      {
+        "name": "Mamertine Prison (Rome)",
+        "coords": [
+          41.8928,
+          12.4842
+        ],
+        "narrative": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind. Preach the word!"
+      }
+    ]
+  },
+  {
+    "id": "TIT",
+    "name": "Titus",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Island of Crete",
+    "coordinates": [
+      35.2401,
+      24.8093
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Paul",
+      "Titus"
+    ],
+    "summary": "Establishing healthy churches on the rugged island of Crete, appointing elders, and teaching doctrine that promotes good works.",
+    "milestones": [
+      {
+        "name": "Gortyn / Crete",
+        "coords": [
+          35.06,
+          24.95
+        ],
+        "narrative": "Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ."
+      }
+    ]
+  },
+  {
+    "id": "PHM",
+    "name": "Philemon",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Rome Prison to Colossae",
+    "coordinates": [
+      37.7878,
+      29.2589
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "Paul",
+      "Philemon",
+      "Onesimus",
+      "Apphia"
+    ],
+    "summary": "A personal appeal for reconciliation: receiving runaway slave Onesimus not as a bondservant, but as a beloved brother in the Lord.",
+    "milestones": [
+      {
+        "name": "House Church of Philemon",
+        "coords": [
+          37.7878,
+          29.2589
+        ],
+        "narrative": "Receive him as myself. If he hath wronged thee, or oweth thee ought, put that on mine account."
+      }
+    ]
+  },
+  {
+    "id": "HEB",
+    "name": "Hebrews",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "To Jewish Believers (Rome / Jerusalem)",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Jesus the Great High Priest",
+      "Melchizedek",
+      "Hall of Faith Heroes"
+    ],
+    "summary": "The superiority of Jesus Christ over angels, Moses, and the Levitical priesthood; the Hall of Faith (Hebrews 11) and looking unto Jesus.",
+    "milestones": [
+      {
+        "name": "Zion / Heavenly Jerusalem",
+        "coords": [
+          31.778,
+          35.2354
+        ],
+        "narrative": "Looking unto Jesus the author and finisher of our faith... Jesus Christ the same yesterday, and to day, and for ever."
+      }
+    ]
+  },
+  {
+    "id": "JAS",
+    "name": "James",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Jerusalem to Twelve Tribes in Dispersion",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "James the Just (Brother of Jesus)"
+    ],
+    "summary": "Practical faith in action: enduring trials, taming the tongue, prayer of faith, and faith without works is dead.",
+    "milestones": [
+      {
+        "name": "Early Church of Jerusalem",
+        "coords": [
+          31.7767,
+          35.2345
+        ],
+        "narrative": "Count it all joy when you fall into divers temptations... Be ye doers of the word, and not hearers only."
+      }
+    ]
+  },
+  {
+    "id": "1PE",
+    "name": "1 Peter",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Rome (Babylon) to Pontus, Galatia, Cappadocia, Asia & Bithynia",
+    "coordinates": [
+      39,
+      35
+    ],
+    "zoom": 6,
+    "keyCharacters": [
+      "Peter",
+      "Silvanus",
+      "Mark"
+    ],
+    "summary": "Living hope amid fiery trials: a chosen generation, a royal priesthood, a holy nation; casting all your care upon Him.",
+    "milestones": [
+      {
+        "name": "Provinces of Asia Minor",
+        "coords": [
+          39,
+          35
+        ],
+        "narrative": "Ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people... to show forth His praises."
+      }
+    ]
+  },
+  {
+    "id": "2PE",
+    "name": "2 Peter",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Rome Prison to Believers",
+    "coordinates": [
+      41.9028,
+      12.4964
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Peter"
+    ],
+    "summary": "Growing in grace and knowledge, divine power for life and godliness, warning against false teachers, and the new heavens and new earth.",
+    "milestones": [
+      {
+        "name": "Catacombs of Rome",
+        "coords": [
+          41.9028,
+          12.4964
+        ],
+        "narrative": "Grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To Him be glory both now and for ever. Amen."
+      }
+    ]
+  },
+  {
+    "id": "1JN",
+    "name": "1 John",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Ephesus / Asia Minor",
+    "coordinates": [
+      37.9408,
+      27.3414
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "John the Beloved Apostle"
+    ],
+    "summary": "Fellowship with God who is Light and Love: walking in the light, loving the brethren, and overcoming the world through faith.",
+    "milestones": [
+      {
+        "name": "Basilica of Saint John (Ephesus)",
+        "coords": [
+          37.9408,
+          27.3414
+        ],
+        "narrative": "God is love; and he that dwelleth in love dwelleth in God, and God in him. Greater is He that is in you than he that is in the world."
+      }
+    ]
+  },
+  {
+    "id": "2JN",
+    "name": "2 John",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Ephesus to Elect Lady",
+    "coordinates": [
+      37.9408,
+      27.3414
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "John the Elder",
+      "The Elect Lady and her children"
+    ],
+    "summary": "Walking in truth and Christian love while guarding against deceivers who deny Christ came in the flesh.",
+    "milestones": [
+      {
+        "name": "House Church in Asia",
+        "coords": [
+          37.94,
+          27.34
+        ],
+        "narrative": "And this is love, that we walk after His commandments."
+      }
+    ]
+  },
+  {
+    "id": "3JN",
+    "name": "3 John",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Ephesus to Gaius",
+    "coordinates": [
+      37.9408,
+      27.3414
+    ],
+    "zoom": 8,
+    "keyCharacters": [
+      "John the Elder",
+      "Gaius",
+      "Demetrius",
+      "Diotrephes"
+    ],
+    "summary": "Commending Gaius for hospitality to traveling missionaries and rebuking prideful, gossiping Diotrephes.",
+    "milestones": [
+      {
+        "name": "Gathering of Gaius",
+        "coords": [
+          37.94,
+          27.34
+        ],
+        "narrative": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth."
+      }
+    ]
+  },
+  {
+    "id": "JUD",
+    "name": "Jude",
+    "testament": "New Testament",
+    "category": "Epistles",
+    "region": "Jerusalem to Sanctified Believers",
+    "coordinates": [
+      31.7767,
+      35.2345
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Jude (Brother of James & Jesus)"
+    ],
+    "summary": "Urgent summons to contend earnestly for the faith once delivered to the saints; glorious doxology to Him who is able to keep you from falling.",
+    "milestones": [
+      {
+        "name": "Holy Assembly of Zion",
+        "coords": [
+          31.7767,
+          35.2345
+        ],
+        "narrative": "Now unto Him that is able to keep you from falling, and to present you faultless before the presence of His glory with exceeding joy!"
+      }
+    ]
+  },
+  {
+    "id": "REV",
+    "name": "Revelation",
+    "testament": "New Testament",
+    "category": "Prophecy",
+    "region": "Isle of Patmos & Seven Churches of Asia Minor",
+    "coordinates": [
+      37.3094,
+      26.5469
+    ],
+    "zoom": 7,
+    "keyCharacters": [
+      "Jesus Christ King of Kings",
+      "John the Apostle",
+      "Seven Angels"
+    ],
+    "summary": "The Revelation of Jesus Christ: glorious vision of Christ in majesty, letters to the seven churches, heavenly throne room worship, victory over Satan, and the descent of the New Jerusalem.",
+    "milestones": [
+      {
+        "name": "Cave of the Apocalypse (Isle of Patmos)",
+        "coords": [
+          37.3094,
+          26.5469
+        ],
+        "narrative": "John exiled on Patmos: I was in the Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet: I am Alpha and Omega!"
+      },
+      {
+        "name": "Seven Churches of Asia Minor (Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea)",
+        "coords": [
+          38.4237,
+          27.1428
+        ],
+        "narrative": "Letters to the seven lampstands: To him that overcometh will I give to eat of the tree of life."
+      },
+      {
+        "name": "Heavenly Throne Room",
+        "coords": [
+          37.31,
+          26.55
+        ],
+        "narrative": "Twenty-four elders cast their crowns before the throne: Worthy is the Lamb that was slain!"
+      },
+      {
+        "name": "The New Jerusalem",
+        "coords": [
+          31.7767,
+          35.2345
+        ],
+        "narrative": "And I saw a new heaven and a new earth... God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying!"
+      }
+    ]
+  }
+]

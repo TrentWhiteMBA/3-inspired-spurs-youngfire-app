@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+:root {
+  --theme-bg: #040711;
+  --theme-card: #0B1329;
+  --theme-accent: #F59E0B;
+  --theme-border: #334155;
+}
+
+/* Master CSS Stability: Lock viewports against horizontal drifting & enable smooth scrolling */
+html, body, #root {
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden !important;
+  touch-action: pan-y;
+  background-color: var(--theme-bg, #040711);
+  color: #FFFFFF;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  transition: background-color 0.4s ease;
+}
+
+/* Ensure bright, clear typography on dark surfaces */
+.text-body-bright {
+  color: #FFFFFF !important;
+}
+
+.text-sub-bright {
+  color: #E2E8F0 !important;
+}
+
+/* Spurs-Style Photo Card Scrim */
+.spurs-hero-scrim {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+
+.spurs-hero-scrim::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg, 
+    rgba(4, 7, 17, 0.45) 0%, 
+    rgba(4, 7, 17, 0.85) 65%, 
+    #040711 100%
+  );
+  z-index: 1;
+}
+
+.spurs-hero-content {
+  position: relative;
+  z-index: 2;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #040711;
+}
+::-webkit-scrollbar-thumb {
+  background: #1E293B;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #D97706;
+}
+
+/* Static image placeholder to prevent layout jumps without any photo movement */
+.photo-shimmer {
+  background: #0B1329;
+}
+
+/* Liturgical Theme Dynamic Surface Utilities */
+.theme-bg-surface {
+  background-color: var(--theme-bg) !important;
+}
+.theme-card-surface {
+  background-color: var(--theme-card) !important;
+}
+.theme-accent-color {
+  color: var(--theme-accent) !important;
+}
+.theme-accent-bg {
+  background-color: var(--theme-accent) !important;
+}
+.theme-border {
+  border-color: var(--theme-border) !important;
+}
+
+.arena-card-elevation {
+  border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
+  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.1) !important;
+}
+
